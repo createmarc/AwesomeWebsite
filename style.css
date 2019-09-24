@@ -11,8 +11,28 @@
 	
 }
 
-#title{
-	font-family: tahoma;
+h3 {
+	font-family: poppins;
 	font-weight: bolder;
 	font-size:	60px;
+	margin-left: 100px;
+	
 }
+ 
+ .icon-small{
+ 	float: left;
+ 	display: inline;
+ 	font-size: 50px;
+ 	margin-left: 200px;
+ }
+
+#story{
+	padding: 60px;
+	font-family: poppins;
+}
+
+.navbar{
+	font-family: poppins;
+}
+
+
